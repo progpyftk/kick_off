@@ -5,4 +5,5 @@ FactoryBot.define do
       password { "123456" }
       confirmed_at { DateTime.now }
     end
+
   end
